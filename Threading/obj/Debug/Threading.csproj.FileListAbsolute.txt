@@ -1,0 +1,7 @@
+C:\Users\admin.admin-PC\Desktop\Threading\Threading\bin\Debug\Threading.exe
+C:\Users\admin.admin-PC\Desktop\Threading\Threading\bin\Debug\Threading.pdb
+C:\Users\admin.admin-PC\Desktop\Threading\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+C:\Users\admin.admin-PC\Desktop\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\admin.admin-PC\Desktop\Threading\Threading\obj\Debug\Threading.pdb
+C:\Users\admin.admin-PC\Desktop\需求文档\Threading\Threading\obj\Debug\Threading.exe
+C:\Users\admin.admin-PC\Desktop\需求文档\Threading\Threading\obj\Debug\Threading.pdb
